@@ -18,6 +18,6 @@ If any issues occur then please follow these steps:
 * Kafka achievement is now obtainable - You'll have to figure out how to get this yourself you little cockroach!
 
 ### Credits
-* Sky - [Twitter](https://twitter.com/skylarkblue1) [Github](https://github.com/skylarkblue1)
-* Sekwah - [Twitter](https://twitter.com/sekwah) [Github](https://github.com/sekwah41)
+* Sky - [Twitter](https://twitter.com/skylarkblue1) [GitHub](https://github.com/skylarkblue1)
+* Sekwah - [Twitter](https://twitter.com/sekwah) [GitHub](https://github.com/sekwah41)
 * Picapi - He has no links, he is lost in the darkness of the room.
