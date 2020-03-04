@@ -15,7 +15,7 @@ If any issues occur then please follow these steps:
 * Wait for steam to finish and re-install the problematic files (You will need to re-apply the patch)
 
 ### Fixes
-* Kafka achievement is now obtainable.
+* Kafka achievement is now obtainable - You'll have to figure out how to get this yourself you little cockroach!
 
 ### Credits
 * Sky - [Twitter](https://twitter.com/skylarkblue1) [Github](https://github.com/skylarkblue1)
