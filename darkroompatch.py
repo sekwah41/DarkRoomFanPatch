@@ -36,6 +36,7 @@ def original_file_patch():
     if not escape_route_exists:
         if talk_to_me("No backup has been detected with an original game file,"
                       " would you like to make a backup copy?"):
+            print("Copying files, this may take a few seconds")
             fuck_it_have_another(broken_shit, escape_route_location)
             print("Backup file created: %s" % escape_route_location)
     apply_patch(broken_shit)
@@ -95,6 +96,7 @@ else:
             # Don't yeet your laptop though, unless its full of beans
             # Jess is usually good at fixing bean related issues
             yeet_the_file(broken_shit)
+            print("Copying files, this may take a few seconds")
             fuck_it_have_another(escape_route_location, broken_shit)
             file_cheksum = md7andahalf(broken_shit)
     if orginal_hash == file_cheksum:
